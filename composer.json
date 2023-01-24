@@ -1,0 +1,22 @@
+{
+    "name": "denarx/laravel-custom-validator",
+    "description": "Extends default laravel validator and make rules more strict",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Denarx\\LaravelCustomValidator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmytro M",
+            "email": "dmmatr@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.3"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
